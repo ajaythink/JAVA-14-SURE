@@ -3,7 +3,6 @@ class Student{
     String name;
     String village;
     String city;    
-
     Student(int r,String n, String v, String c){
         this.rollNo = r;
         this.name = n;
